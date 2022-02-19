@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aravind</h1>
 <h3 align="center">A passionate Mobile Application Developer</h3>
 
-- 🔭 I’m currently working on **GPS Application**
+- 🔭 I’m an everyday learner implementing random ideas!**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently working on GPS Application**
+
+- 👯‍♀️ I look forward to collaborate on developing Android applications.
 
 - 📝 I regularly write articles on [https://medium.com/@aravindj2002](https://medium.com/@aravindj2002)
 
