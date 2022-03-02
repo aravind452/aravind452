@@ -3,7 +3,7 @@
 
 - 🔭 I’m an everyday learner implementing random ideas!
 
-- 🌱 I’m currently working on GPS Application
+- 🌱 I’m currently working on a project called Image Classification
 
 - 👯‍♀️ I look forward to collaborate on developing Android applications.
 
