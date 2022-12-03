@@ -3,7 +3,7 @@
 
 - 🔭 I’m an everyday learner implementing random ideas!
 
-- 🌱 I’m currently working on a project called Language Translator using Machine learning
+- 🌱 I’m currently working on a project called Blog Web Application
 
 - 👯‍♀️ I look forward to collaborate on developing Android applications.
 
