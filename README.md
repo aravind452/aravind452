@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravind</h1>
-<h3 align="center">A passionate Mobile Application Developer</h3>
+<h3 align="center">A passionate Mobile / Web Application Developer</h3>
 
 - 🔭 I’m an everyday learner implementing random ideas!
 
