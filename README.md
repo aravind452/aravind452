@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aravindj2002](https://medium.com/@aravindj2002)
 
-- 💬 Ask me about **Android**
-
 - 📫 How to reach me **aravindj2002@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
