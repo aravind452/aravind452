@@ -23,5 +23,5 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/svg/331761/sql-database-sql-azure" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
