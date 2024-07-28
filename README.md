@@ -3,7 +3,7 @@
 
 - 🔭 I’m an everyday learner implementing random ideas!
 
-- 🌱 I’m currently working on a project called GitLocus
+- 🌱 I’m currently working on a project called TravelStay
 
 - 👯‍♀️ I look forward to collaborate on developing Applications.
 
