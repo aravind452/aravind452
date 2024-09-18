@@ -35,6 +35,8 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/445914/node-js.svg" alt="Express JS" width="40" height="40"/> 
   </a> 
+
+  <a href="https://u8views.com/github/aravind452"><img src="https://u8views.com/api/v1/github/profiles/85935860/views/day-week-month-total-count.svg"></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
