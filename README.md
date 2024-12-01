@@ -3,7 +3,7 @@
 
 - 🔭 I’m an everyday learner implementing random ideas!
 
-- 🌱 I’m currently working on a project called TravelStay
+- 🌱 I’m currently working on a project called Code Analyser
 
 - 👯‍♀️ I look forward to collaborate on developing Applications.
 
